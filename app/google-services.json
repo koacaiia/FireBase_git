@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65162963253",
+    "firebase_url": "https://fir-git-b4828.firebaseio.com",
+    "project_id": "fir-git-b4828",
+    "storage_bucket": "fir-git-b4828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65162963253:android:f668023e2860a74c3a847c",
+        "android_client_info": {
+          "package_name": "fine.koaca.firebase_git"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65162963253-aad5t7fl4jclu229vft2jktd526lbc6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvoj_Pq12FgneTpRDZfj3Yb4BGWhESl6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65162963253-aad5t7fl4jclu229vft2jktd526lbc6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
